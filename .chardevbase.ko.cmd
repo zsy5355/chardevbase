@@ -1,0 +1,1 @@
+cmd_/home/zhengsongyan/linux/test/chardevbase/chardevbase.ko := arm-linux-gnueabihf-ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/zhengsongyan/linux/test/chardevbase/chardevbase.ko /home/zhengsongyan/linux/test/chardevbase/chardevbase.o /home/zhengsongyan/linux/test/chardevbase/chardevbase.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/zhengsongyan/linux/test/chardevbase/modules.order := {   echo /home/zhengsongyan/linux/test/chardevbase/chardevbase.ko; :; } | awk '!x[$$0]++' - > /home/zhengsongyan/linux/test/chardevbase/modules.order
